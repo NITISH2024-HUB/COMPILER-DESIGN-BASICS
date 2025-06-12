@@ -51,3 +51,6 @@ Operators are printed as Operator: <symbol>
 
 Remaining valid tokens are printed as Identifier: <name>
 
+#OUTPUT 
+![Image](https://github.com/user-attachments/assets/65bcd49e-f7b9-4da9-9b7a-73e8009dccfd)
+
