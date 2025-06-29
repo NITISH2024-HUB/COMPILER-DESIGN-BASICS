@@ -3,7 +3,7 @@ NAME: NITISH KUMAR
 INTERN ID: CT04DF397
 DOMAIN: C LANGUAGE 
 DURATION: 4 WEEKS 
-MENTOR: NEELA SANTOSH
+MENTOR: NEELA SANTHOSH
 
 Description:
 This C program is a simple lexical analyzer designed as part of the Compiler Design basics. It takes an input source code (from a file), scans it line by line, and classifies each token into one of the following categories:
